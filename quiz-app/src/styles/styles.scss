@@ -1,5 +1,5 @@
 //npm install node-sass react-helmet react-router-dom @mdi/font materialize-css classnames
-
-body{
-    background-color: red;
-}
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import './base/settings';
+@import './base/base';
+@import './components/home';
